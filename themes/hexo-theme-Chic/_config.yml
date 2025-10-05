@@ -4,8 +4,9 @@ navname: Sako's Blog
 # navigatior items
 nav:
   Posts: /archives
-  Categories: /category
-  Tags: /tag
+  Categories: /categories
+  Gallery: /gallery
+  # Tags: /tags
   About: /about
 
 # favicon
@@ -15,7 +16,7 @@ favicon: /favicon.ico
 nickname: Dantong Luo
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: "*Don’t Panic*"
 avatar: /image/avatar.png
 
 # main menu navigation
@@ -23,7 +24,7 @@ avatar: /image/avatar.png
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  Blog: https://juejin.cn/user/2356952055445246
   # Category:
   # Tags: 
   # Link:
@@ -33,8 +34,8 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
+  # ZhiHu: 
+  LinkedIn: https://www.linkedin.com/in/dantong-luo/
   # FaceBook:
   # Twitter:
   # Skype:
@@ -43,13 +44,13 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  Instagram: https://www.instagram.com/sako_1128
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/ldt1997
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
