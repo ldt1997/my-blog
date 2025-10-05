@@ -5,7 +5,8 @@ navname: Sako's Blog
 nav:
   Posts: /archives
   Categories: /categories
-  Tags: /tags
+  Gallery: /gallery
+  # Tags: /tags
   About: /about
 
 # favicon

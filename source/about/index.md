@@ -8,6 +8,10 @@ date: 2025-10-05 14:12:03
 Web Developer, Software engineer & Freelance illustrator.  
 I enjoy creative coding, drawing, swimming, and traveling.✈️
 
+- GitHub: https://github.com/ldt1997
+- LinkedIn: https://www.linkedin.com/in/dantong-luo/
+- Email: dantong.luo@outlook.com
+
 <img src="author.png" alt="Author’s photo" width="300">
 
 ## My Cat
