@@ -1,6 +1,8 @@
 ---
 title: 基于 AST 实现一键自动提取&替换国际化文案
 date: 2024-02-05 15:41:53
+categories: 
+  - Frontend
 tags:
   - Frontend
 ---

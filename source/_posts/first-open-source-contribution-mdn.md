@@ -1,6 +1,8 @@
 ---
 title: 开源贡献第一步：如何为 MDN 提供中文翻译
 date: 2024-03-14 15:46:56
+categories: 
+  - Frontend
 tags:
   - Frontend
 ---

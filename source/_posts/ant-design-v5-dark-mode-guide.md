@@ -1,6 +1,8 @@
 ---
 title: 2 分钟为你的网站加上暗黑模式（基于Ant Design V5）
 date: 2023-11-17 16:00:00
+categories: 
+  - Frontend
 tags:
   - Frontend
 ---

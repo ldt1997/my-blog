@@ -1,6 +1,8 @@
 ---
 title: 使用 @formatjs/cli 进行国际化文案自动提取
 date: 2024-1-17 15:34:47
+categories: 
+  - Frontend
 tags:
   - Frontend
 ---
