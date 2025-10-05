@@ -4,8 +4,8 @@
 
 # Site
 title: Sako's Blog
-subtitle: subtitle
-description: 我的个人博客
+subtitle: Thoughts, Art and Code
+description: My personal blog documenting design, coding, and creative experiments.
 keywords: Dantong Luo
 author: Dantong Luo
 language: en
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://dantongluo.vercel.app
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
